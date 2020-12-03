@@ -11,8 +11,8 @@
   h3{
     font-family: 'Grand Hotel', cursive;
     display: inline-block;
-    margin: 0 18% 0 23%;
-    font-size: 5vw;
+    margin: 0 19% 0 25%;
+    font-size: 5.5vw;
   }
 
   .page-layout{
@@ -21,14 +21,14 @@
 
   .top-icon{
     margin: 0 3% 0 2%;
-    width: 6%;
+    width: 7%;
   }
   .send{
     transform: rotate(-30deg);
   }
 
   .middle{
-    margin: 70% 0;
+    margin: 75% 0;
   }
 
   .bottom-icon{
